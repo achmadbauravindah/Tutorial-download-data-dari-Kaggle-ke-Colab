@@ -6,6 +6,7 @@
 
 1. Upload Your Kaggle Credential (API Token) to Your Github
 2. Make configuration on your Colab (see code .ipynb)
-3. Change Account or Slug in that code
+3. Change Account or Slug in that code (like "achmadbauravindah" that is my name or 
+"ravin_kaggle_credential" is my github repo change it to yourself)
 4. Choose slug of your dataset from uploaded kaggle dataset 
 5. Enjoy
